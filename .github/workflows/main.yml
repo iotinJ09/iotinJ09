@@ -8,15 +8,19 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: Profile Summary Cards Generate
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Summary Cards
+        uses: actions/checkout@v2
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.STATS_GENERATE_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-      - uses: lowlighter/metrics@latest
+
+      - name: Metrics
+        uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.STATS_GENERATE_TOKEN }}

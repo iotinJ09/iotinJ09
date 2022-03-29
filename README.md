@@ -1,6 +1,6 @@
 <h1 align="left" >
   <b> <i>
-    I'm a developer who mainly makes Discord Bot and Electron software.
+    👋 Hi! I'm iotinJ09
   </i> </b>
 </h1>
 

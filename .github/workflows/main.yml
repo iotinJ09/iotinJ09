@@ -11,16 +11,10 @@ jobs:
     name: Profile Summary Cards Generate
 
     steps:
-      - name: Summary Cards
+      - name: Checkout
         uses: actions/checkout@v2
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.STATS_GENERATE_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Metrics
+      - name: Metrics Generate
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.STATS_GENERATE_TOKEN }}

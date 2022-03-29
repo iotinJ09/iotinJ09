@@ -20,7 +20,7 @@ jobs:
       - name: GitHub Full Year Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.fullyear-calendar.svg
+          filename: metrics.svg
           token: ${{ secrets.STATS_GENERATE_TOKEN }}
 
           plugin_isocalendar: yes

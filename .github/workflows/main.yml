@@ -7,14 +7,40 @@ on:
 
 jobs:
   build:
+    name: Profile Stats Image Generate
     runs-on: ubuntu-latest
-    name: Profile Summary Cards Generate
 
     steps:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Metrics Generate
+      - name: GitHub Full Year Calendar
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.tweets.svg
           token: ${{ secrets.STATS_GENERATE_TOKEN }}
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: WebSite Information RSS Feed
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.rss.svg
+          token: ${{ secrets.STATS_GENERATE_TOKEN }}
+
+          plugin_rss: yes
+          plugin_rss_source: https://cippands.wixsite.com/iotinj09/blog-feed.xml
+          plugin_rss_limit: 5
+
+      - name: Tweet Timeline
+        uses:  lowlighter/metrics@latest
+        with:
+          filename: metrics.tweet.svg
+          token: ${{ secrets.STATS_GENERATE_TOKEN }}
+
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_API_TOKEN }}
+          plugin_tweets_attachments: yes
+          plugin_tweets_user: iotinJ09
+          plugin_tweets_limit: 3

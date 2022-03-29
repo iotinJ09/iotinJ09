@@ -65,7 +65,7 @@
 
   &nbsp;
   <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iotinJ09" alt="iotinJ09" />
+    <img align="center" src="https://iotinj09.vercel.app/api/wakatime?username=iotinJ09" alt="iotinJ09" />
   </a>
   
 </p>

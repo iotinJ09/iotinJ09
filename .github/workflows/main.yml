@@ -2,9 +2,8 @@ name: GitHub-Profile-Stats-Generate
 
 on:
   schedule: # execute every 1 hours
-    - cron: "* */1 * * *"
+    - cron: "*/60 * * * *"
   workflow_dispatch:
-  push: { branches: ['master'] }
 
 jobs:
   stats-generate:

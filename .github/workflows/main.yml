@@ -1,4 +1,4 @@
-name: GitHub-Profile-Stats-Generate
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule: # execute every 1 hours
@@ -6,12 +6,13 @@ on:
   workflow_dispatch:
 
 jobs:
-  stats-generate:
-    name: Profile Summary Cards Generate
+  build:
     runs-on: ubuntu-latest
+    name: Profile Summary Cards Generate
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Summary Cards
+        uses: actions/checkout@v2
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -19,6 +20,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
 
-      - uses: lowlighter/metrics@latest
+      - name: Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.STATS_GENERATE_TOKEN }}

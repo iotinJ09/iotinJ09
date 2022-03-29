@@ -3,6 +3,9 @@ name: GitHub-Profile-Summary-Cards
 on:
   schedule: # execute every 1 hours
     - cron: "*/60 * * * *"
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:
@@ -17,7 +20,7 @@ jobs:
       - name: GitHub Full Year Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.tweets.svg
+          filename: metrics.fullyear-calendar.svg
           token: ${{ secrets.STATS_GENERATE_TOKEN }}
 
           plugin_isocalendar: yes
@@ -36,7 +39,7 @@ jobs:
       - name: Tweet Timeline
         uses:  lowlighter/metrics@latest
         with:
-          filename: metrics.tweet.svg
+          filename: metrics.tweets.svg
           token: ${{ secrets.STATS_GENERATE_TOKEN }}
 
           plugin_tweets: yes

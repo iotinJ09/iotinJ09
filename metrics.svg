@@ -277,6 +277,10 @@
                             iotinJ09
                         </div>
                         <div class="tweet">
+                            デジタル庁のやらかし方がアナログ庁で草
+                            <div class="date">10:49:49 on 1 Apr 2022</div>
+                        </div>
+                        <div class="tweet">
                             <br />
                             <a href="https://t.co/9dkjzbutVW" class="link">pic.twitter.com/9dkjzbutVW</a>
                             <div class="attachments largeable largeable-width-auto">
@@ -296,10 +300,6 @@
                                 </div>
                             </div>
                             <div class="date">09:31:15 on 1 Apr 2022</div>
-                        </div>
-                        <div class="tweet">
-                            後でお知らせ書くか
-                            <div class="date">06:17:32 on 1 Apr 2022</div>
                         </div>
                     </section>
                 </div>
@@ -2325,7 +2325,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2022, 10:19:21  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 1 Apr 2022, 11:14:44  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

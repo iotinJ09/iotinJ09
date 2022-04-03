@@ -29,9 +29,3 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://cippands.wixsite.com/iotinj09/blog-feed.xml
           plugin_rss_limit: 5
-
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_API_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_user: iotinJ09
-          plugin_tweets_limit: 3

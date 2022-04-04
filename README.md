@@ -68,6 +68,9 @@
     <img align="center" src="https://iotinj09.vercel.app/api/wakatime?username=iotinJ09" alt="iotinJ09" />
   </a>
   
+  <a href="https://github.com/iotinJ09">
+    <img align="center" src="https://github.com/iotinJ09/iotinJ09/blob/master/metrics.svg" alt="iotinJ09">
+  </a>
 </p>
 
 <p>

@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub-Profile-Summary-Cards-Build
 
 on:
   schedule: # execute every 1 hours
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: GitHub Full Year Calendar
+      - name: GitHub Stas Image Generate
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg

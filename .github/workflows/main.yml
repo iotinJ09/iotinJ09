@@ -29,10 +29,3 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://cippands.wixsite.com/iotinj09/blog-feed.xml
           plugin_rss_limit: 5
-          
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-          plugin_wakatime_days: 365
-          plugin_wakatime_user: iotinJ09
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graphs, os
-          

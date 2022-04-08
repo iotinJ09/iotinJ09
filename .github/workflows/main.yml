@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    name: Profile Stats Image Generate
+    name: Profile Stats Image Generate and Share Repository by Google Drive
     runs-on: ubuntu-latest
 
     steps:
@@ -29,3 +29,16 @@ jobs:
           plugin_rss: yes
           plugin_rss_source: https://cippands.wixsite.com/iotinj09/blog-feed.xml
           plugin_rss_limit: 5
+          
+      - name: Upload to Google Drive
+
+        uses: satackey/action-google-drive@v1
+
+        with:
+          skicka-tokencache-json: ${{ secrets.SKICKA_TOKENCACHE_JSON }}
+          upload-from: ./
+          upload-to: ./共有フォルダ/GithubReadME
+
+          # For those who set up Google Drive API client ID and secret themselves
+          google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
+          google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}

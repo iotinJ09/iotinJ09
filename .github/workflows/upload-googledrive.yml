@@ -1,0 +1,28 @@
+name: Upload to Google Drive
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: Upload to Google Drive
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+
+      - name: Upload to Google Drive
+
+        uses: satackey/action-google-drive@v1
+
+        with:
+          skicka-tokencache-json: ${{ secrets.SKICKA_TOKENCACHE_JSON }}
+
+          upload-from: ./
+          upload-to: ./共有フォルダ/GithubReadME
+
+          google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
+          google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}

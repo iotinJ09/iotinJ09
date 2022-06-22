@@ -2,7 +2,7 @@ name: GitHub-Profile-Summary-Cards-Build
 
 on:
   schedule: # execute every 1 hours
-    - cron: "*/60 * * * *"
+    - cron: "*/20 * * * *"
   push:
     branches:
       - master

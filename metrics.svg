@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="905" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="916" class="">
     <defs>
         <style/>
     </defs>
@@ -218,7 +218,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">&amp;#12304;&amp;#24489;&amp;#26087;&amp;#28168;&amp;#12305;TwitterAPI&amp;#12398;&amp;#38556;&amp;#23475;&amp;#12395;&amp;#12424;&amp;#12427;&amp;#19968;&amp;#37096;&amp;#20844;&amp;#38283;BOT&amp;#12362;&amp;#12424;&amp;#12403;&amp;#38480;&amp;#23450;&amp;#20844;&amp;#38283;BOT&amp;#12395;&amp;#38306;&amp;#12377;&amp;#12427;&amp;#19981;&amp;#20855;&amp;#21512;&amp;#12395;&amp;#12388;&amp;#12356;&amp;#12390;</div>
+                                <div class="title">【復旧済】TwitterAPIの障害による一部公開BOTおよび限定公開BOTに関する不具合について</div>
                                 <div class="date">14 Jul 2022</div>
                             </div>
                         </div>
@@ -227,7 +227,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">TwitterAPI&amp;#12398;&amp;#38556;&amp;#23475;&amp;#12395;&amp;#12424;&amp;#12427;&amp;#19968;&amp;#37096;&amp;#20844;&amp;#38283;BOT&amp;#12362;&amp;#12424;&amp;#12403;&amp;#38480;&amp;#23450;&amp;#20844;&amp;#38283;BOT&amp;#12395;&amp;#38306;&amp;#12377;&amp;#12427;&amp;#19981;&amp;#20855;&amp;#21512;&amp;#12395;&amp;#12388;&amp;#12356;&amp;#12390;</div>
+                                <div class="title">TwitterAPIの障害による一部公開BOTおよび限定公開BOTに関する不具合について</div>
                                 <div class="date">14 Jul 2022</div>
                             </div>
                         </div>
@@ -236,7 +236,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">&amp;#12304;&amp;#23436;&amp;#20102;&amp;#12305;Discord Bot&amp;#31292;&amp;#20685;&amp;#12469;&amp;#12540;&amp;#12496;&amp;#12540;&amp;#12398;&amp;#12513;&amp;#12531;&amp;#12486;&amp;#12490;&amp;#12531;&amp;#12473;&amp;#12395;&amp;#12388;&amp;#12356;&amp;#12390;</div>
+                                <div class="title">【完了】Discord Bot稼働サーバーのメンテナンスについて</div>
                                 <div class="date">14 Jul 2022</div>
                             </div>
                         </div>
@@ -245,7 +245,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Discord Bot&amp;#31292;&amp;#20685;&amp;#12469;&amp;#12540;&amp;#12496;&amp;#12540;&amp;#12398;&amp;#12513;&amp;#12531;&amp;#12486;&amp;#12490;&amp;#12531;&amp;#12473;&amp;#12395;&amp;#12388;&amp;#12356;&amp;#12390;</div>
+                                <div class="title">Discord Bot稼働サーバーのメンテナンスについて</div>
                                 <div class="date">14 Jul 2022</div>
                             </div>
                         </div>
@@ -254,7 +254,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">&amp;#12304;&amp;#23436;&amp;#20102;&amp;#12305;YouTube&amp;#21205;&amp;#30011;&amp;#25237;&amp;#31295;&amp;#36890;&amp;#30693;&amp;#27231;&amp;#33021;&amp;#12395;&amp;#23550;&amp;#12377;&amp;#12427;&amp;#12513;&amp;#12531;&amp;#12486;&amp;#12490;&amp;#12531;&amp;#12473;&amp;#23436;&amp;#20102;&amp;#12398;&amp;#12362;&amp;#30693;&amp;#12425;&amp;#12379;</div>
+                                <div class="title">【完了】YouTube動画投稿通知機能に対するメンテナンス完了のお知らせ</div>
                                 <div class="date">30 Jun 2022</div>
                             </div>
                         </div>
@@ -2282,7 +2282,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jul 2022, 08:53:36  with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 22 Jul 2022, 09:15:27  with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

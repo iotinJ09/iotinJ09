@@ -218,6 +218,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">【重要】現在運営しているサービスの今後について</div>
+                                <div class="date">1 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">【復旧済】TwitterAPIの障害による一部公開BOTおよび限定公開BOTに関する不具合について</div>
                                 <div class="date">14 Jul 2022</div>
                             </div>
@@ -247,15 +256,6 @@
                             <div class="infos">
                                 <div class="title">Discord Bot稼働サーバーのメンテナンスについて</div>
                                 <div class="date">14 Jul 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">【完了】YouTube動画投稿通知機能に対するメンテナンス完了のお知らせ</div>
-                                <div class="date">30 Jun 2022</div>
                             </div>
                         </div>
                     </section>
@@ -2271,7 +2271,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2022, 09:49:01  with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 10:18:03  with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

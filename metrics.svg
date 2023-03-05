@@ -218,6 +218,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">【重要】CIPプログラム＆システムズ の解散について</div>
+                                <div class="date">5 Mar 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">【重要】TwitterAPIの無料アクセス廃止に伴う各種サービスの影響について</div>
                                 <div class="date">7 Feb 2023</div>
                             </div>
@@ -246,15 +255,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">【ゴラクバ!Bot】メジャーアップデート予定のお知らせ</div>
-                                <div class="date">17 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">【ゴラクバ!Bot】Twitter版Botサービス終了のお知らせ</div>
                                 <div class="date">17 Oct 2022</div>
                             </div>
                         </div>
@@ -2286,7 +2286,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2023, 07:45:23  with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Mar 2023, 08:16:34  with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

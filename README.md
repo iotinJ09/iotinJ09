@@ -116,5 +116,5 @@
 <br/>
 
 <p>
-  Profile Ver.1.1.0
+  Profile Ver.1.2.2
 </p>

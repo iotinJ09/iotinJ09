@@ -18,10 +18,6 @@
   <a href="https://github.com/iotinJ09">
     <img src="https://img.shields.io/github/followers/iotinJ09?label=follow&logo=github&style=flat" alt="iotinj09" align="center" />
   </a>
-  　
-  <a href="https://www.youtube.com/channel/UCZv-azFC5fzdB10cR2lHnRw?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCZv-azFC5fzdB10cR2lHnRw?style=flat&logo=youtube" alt="iotinj09" align="center" />
-  </a>
 </p>
 
 <p align="left">

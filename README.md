@@ -19,10 +19,6 @@
     <img src="https://img.shields.io/github/followers/iotinJ09?label=follow&logo=github&style=flat" alt="iotinj09" align="center" />
   </a>
   　
-  <a href="https://twitter.com/intent/follow?screen_name=iotinJ09">
-    <img src="https://img.shields.io/twitter/follow/iotinJ09?style=flat&color=1ca1f2" alt="iotinj09" align="center" />
-  </a>
-  　
   <a href="https://www.youtube.com/channel/UCZv-azFC5fzdB10cR2lHnRw?sub_confirmation=1">
     <img src="https://img.shields.io/youtube/channel/subscribers/UCZv-azFC5fzdB10cR2lHnRw?style=flat&logo=youtube" alt="iotinj09" align="center" />
   </a>

@@ -47,17 +47,17 @@
 <p align="left">
   &nbsp;
   <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://iotinj09.vercel.app/api?username=iotinJ09&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="iotinJ09" />
+    <img align="center" src="https://grs.api.iotinj09.com/api?username=iotinJ09&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="iotinJ09" />
   </a>
 
   &nbsp;
   <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://iotinj09.vercel.app/api/top-langs?username=iotinJ09&card_width=495" alt="iotinJ09" />
+    <img align="center" src="https://grs.api.iotinj09.com/api/top-langs?username=iotinJ09&card_width=495" alt="iotinJ09" />
   </a>
 
   &nbsp;
   <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://iotinj09.vercel.app/api/wakatime?username=iotinJ09" alt="iotinJ09" />
+    <img align="center" src="https://grs.api.iotinj09.com/api/wakatime?username=iotinJ09" alt="iotinJ09" />
   </a>
   
   <a href="https://github.com/iotinJ09">

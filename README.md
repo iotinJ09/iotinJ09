@@ -44,22 +44,22 @@
     Stats
   </h2>
 </p>
+
 <p align="left">
   &nbsp;
   <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://grs.api.iotinj09.com/api?username=iotinJ09&show_icons=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats" alt="iotinJ09" />
+    <img height=200 align="center" src="https://grs.api.iotinj09.com/api?username=iotinJ09&show_icons=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="iotinJ09" />
+  </a>
+  <a href="https://github.com/iotinJ09">
+    <img height=200 align="center" src="https://grs.api.iotinj09.com/api/top-langs?username=iotinJ09&layout=donut" alt="iotinJ09" />
   </a>
 
   &nbsp;
   <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://grs.api.iotinj09.com/api/top-langs?username=iotinJ09&card_width=495" alt="iotinJ09" />
+    <img align="center" src="https://grs.api.iotinj09.com/api/wakatime?username=iotinJ09&layout=compact" alt="iotinJ09" />
   </a>
 
   &nbsp;
-  <a href="https://github.com/iotinJ09">
-    <img align="center" src="https://grs.api.iotinj09.com/api/wakatime?username=iotinJ09" alt="iotinJ09" />
-  </a>
-  
   <a href="https://github.com/iotinJ09">
     <img align="center" src="https://github.com/iotinJ09/iotinJ09/blob/master/metrics.svg" alt="iotinJ09">
   </a>

@@ -40,6 +40,10 @@
   <a href="https://github.com/iotinJ09">
     <img src="https://github.com/iotinJ09/iotinJ09/blob/master/metrics.svg">
   </a>
+  <br><br>
+  <a href="https://github.com/iotinJ09">
+    <img src="https://wakapi.iotinj09.com/api/activity/chart/iotinJ09.svg?dark=true">
+  </a>
 </div>
 
 <h2 align="left">Languages and Tools</h2>

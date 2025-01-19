@@ -1,12 +1,12 @@
 <h1 align="left" >
   <b> <i>
-    👋 Hi! I'm iotinJ09
+    👋 Hi!
   </i> </b>
 </h1>
 
 <p align="left">
   <h2>
-    Statuses
+    Status
   </h2>
 </p>
 <p align="left">
@@ -22,20 +22,20 @@
 
 <p align="left">
   <h2>
-    Socials
+    Social Links
   </h2>
 </p>
 
 <p align="left">
   &nbsp;
-  <a href="https://twitter.com/intent/follow?screen_name=iotinJ09">
+  <a href="https://x.com/intent/follow?screen_name=iotinJ09">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iotinj09" height="20" width="30" />
   </a>
   <a href="https://instagram.com/iotinj09">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iotinj09" height="20" width="30" />
   </a>
-  <a href="https://www.youtube.com/channel/UCZv-azFC5fzdB10cR2lHnRw?sub_confirmation=1">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uczv-azfc5fzdb10cr2lhnrw" height="20" width="30" />
+  <a href="https://www.youtube.com/@iotinj09?sub_confirmation=1">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iotinj09" height="20" width="30" />
   </a>
 </p>
 

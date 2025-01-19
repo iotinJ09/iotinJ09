@@ -1,4 +1,4 @@
-<h1 align="left"><i>👋 Hi!</i></h1>
+<h1 align="left"><i>👋 Hi !  I</i></h1>
 
 <h2 align="left">Status</h2>
 <div align="left">
@@ -45,6 +45,6 @@
 <h2 align="left">Languages and Tools</h2>
 <div align="left">
   <a href="https://github.com/iotinJ09">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,java,html,css,bash,githubactions,git,linux,docker,github,mongodb,mysql,cloudflare,grafana,discord&perline=6"><br>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,discordjs,java,html,css,linux,docker,mongodb,mysql,cloudflare,discord&perline=6"><br>
   </a>
 </div>

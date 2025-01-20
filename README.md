@@ -1,4 +1,4 @@
-<h1 align="left"><i>👋 Hi !  I</i></h1>
+<h1 align="left"><i>👋 Hi !</i></h1>
 
 <h2 align="left">Status</h2>
 <div align="left">
